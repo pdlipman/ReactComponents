@@ -1,0 +1,21 @@
+[
+    {
+        "text": "Home",
+        "url": "home",
+        "uid": "1",
+        "classes": ["nav-link"]
+
+    },
+    {
+        "text": "About",
+        "url": "about",
+        "uid": "2",
+        "classes": ["nav-link"]
+    },
+    {
+        "text": "Contact",
+        "url": "contact",
+        "uid": "3",
+        "classes": ["nav-link"]
+    }
+]
